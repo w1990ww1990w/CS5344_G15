@@ -1,1 +1,0 @@
-I'm using spark to find similarity, but I keep getting Spark StackOverflowError when I run my code on a big dataset (40k entries). When running the code on a small number of entries it works fine though. 
